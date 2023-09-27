@@ -1,3 +1,3 @@
 # IOT_Phase_1
-NAAN MUTHALVAN_IOT_Public_Transport_Optimization
+NM_IOT_Public_Transport_Optimization
 
